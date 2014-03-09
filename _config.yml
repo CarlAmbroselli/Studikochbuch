@@ -1,0 +1,7 @@
+name: "Captain Cook"
+
+url: "http://flxw.de"
+baseurl: ""
+
+permalink: :title.html
+pygments: false

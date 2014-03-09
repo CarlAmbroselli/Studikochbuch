@@ -1,0 +1,19 @@
+{% include header.html %}
+
+<div id="image-singlewrap"><img src="/assets/img/{{ page.image }}"></img></div>
+<section id="single-wrap">
+  <h1 class="page-title" itemprop="name headline">{{ page.title }}</h1>
+  <p class="recipe-desc">{{ page.abstract }}</p>
+  <div class="linefeat"><a class="duration">~{{ page.duration }}</a></div>
+    <ul class="ingredients">
+      {% for ingredient in page.ingredients %}
+      <li>{{ ingredient }}</li>
+      {% endfor %}
+    </ul>
+  <div class="linefeat"></div>
+  <div itemprop="articleBody">
+    {{ content }}
+  </div>
+</section>
+
+{% include footer.html %}

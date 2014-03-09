@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="recipes">
+  {% for page in site.pages %}
+  {% if page.layout == "recipe" %}
+  <div class="recipe-tile">
+    <a href="{{ page.url }}">
+      <img src="/assets/img/{{ page.image }}">
+    </a>
+    <span class="overlay">{{ page.abstract }}</span>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>

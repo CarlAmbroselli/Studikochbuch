@@ -1,0 +1,203 @@
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* General */
+
+html, body { width: 100%; height: 100%; }
+
+body {
+  background: #fff;
+  color: #444;
+  font: 20px 'Open Sans', sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  color: #333;
+}
+
+p { margin: 1em 0; }
+small { font-size: 50%; }
+p, small, blockquote { -webkit-font-smoothing: antialiased; }
+ul li { list-style-type: circle; }
+ol li { list-style-type: decimal; }
+a         { color: #39f; }
+a:hover   { color: #444; }
+
+/* ---- Footer ------------------------------- */
+footer { padding: 40px; text-align: center; }
+footer small { text-transform: uppercase; }
+
+/* --- recipe list --------------------------- */
+.recipes {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.recipes .recipe-tile {
+  margin: 2%;
+  width: 28%;
+  display: inline-block;
+  position: relative;
+}
+
+.recipes .recipe-tile img {
+  transition: opacity 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
+  width: 100%;
+  height: 100%;
+  opacity: 0.8;
+}
+
+.recipes .recipe-tile span.overlay {
+  transition: opacity 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
+  overflow:hidden;
+  position:absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  line-height: 2em;
+  opacity: 0;
+  font-size: 70%;
+  font-style: bold;
+  color: #000;
+  overflow: hidden;
+}
+
+.recipes .recipe-tile:hover span.overlay {
+  opacity: 1;
+}
+
+.recipes .recipe-tile:hover img {
+  opacity: 0.4
+}
+
+/* --- recipe view --------------------------- */
+section#single-wrap {
+  width: 100%;
+  max-width: 780px;
+  margin: 20px auto;
+  font-family: 'Lora', Georgia, serif;
+  background: #fff;
+  z-index: 1;
+}
+
+div#image-singlewrap {
+  width: 100%;
+  max-width: 1240px;
+  max-height: 400px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+div#image-singlewrap img {
+  width: 100%;
+}
+
+section#single-wrap h1.page-title {
+  font-size: 180%;
+  line-height: 135%;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0 0 60px;
+  padding: 0 40px;
+}
+
+section#single-wrap .linefeat {
+  text-align: center;
+  border-bottom: 1px dotted #E0E1E6;
+  margin: 0 20px 50px;
+}
+
+section#single-wrap .linefeat a.duration {
+  display: inline-block;
+  position: relative;
+  top: 11px;
+  background: #fff;
+  font-size: 85%;
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  padding: 0 20px;
+  color: #000;
+}
+
+section#single-wrap p.recipe-desc {
+  font-size: 80%;
+  font-style: italic;
+  text-align: center;
+}
+
+section#single-wrap ul.ingredients {
+  padding-left: 46%;
+}
+
+section#single-wrap p {
+  padding: 0 40px;
+}
+
+section#single-wrap ul,
+section#single-wrap ol {
+  padding: 10px 80px;
+}
+
+section#single-wrap ul li,
+section#single-wrap ol li {
+  margin-bottom: 10px;
+}
+
+section#single-wrap h1,
+section#single-wrap h2,
+section#single-wrap h3,
+section#single-wrap h4,
+section#single-wrap h5,
+section#single-wrap h6 { 
+  padding: 0 40px; 
+  margin-top: 40px;
+}
+
+section#single-wrap h1 { font-size: 150%; }
+section#single-wrap h2 { font-size: 140%; font-style: italic; }
+section#single-wrap h3 { font-size: 130%; font-weight: lighter; }
+section#single-wrap h4 { font-size: 120%; font-weight: lighter; text-decoration: underline; text-align: center; }
+section#single-wrap h5 { font-size: 110%; }
+section#single-wrap h6 { font-size: 100%; }
+section#single-wrap p { line-height: 160%; }
+
+section#single-wrap blockquote {
+  font-size: inherit;
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+  border-left: 6px solid #39f;
+  padding: 0 34px;
+  margin: 40px 0;
+  line-height: 165%;
+}
+
+section#single-wrap blockquote p {
+  padding-left: 0!important;
+  padding-right: 0!important;
+}
+
+section#single-wrap img {
+  width: 100%;
+  height: 100%;
+}
+
+/* --- media queries for responsiveness ------ */
+/* Viewport width < 920px */
+
+@media only screen and (max-width : 919px) {
+  body { font-size: 17px; }
+}
+
+/* Viewport width < 480px */
+@media only screen and (max-width : 479px) {
+  body { font-size: 15px; }
+}
