@@ -10,7 +10,7 @@
 html, body { width: 100%; height: 100%; }
 
 body {
-  background: #fff;
+  background: #fef9f0;
   color: #444;
   font: 20px 'Open Sans', sans-serif;
   text-rendering: optimizeLegibility;
@@ -45,6 +45,7 @@ footer small { text-transform: uppercase; }
   width: 28%;
   display: inline-block;
   position: relative;
+  border-radius: 5px;
 }
 
 .recipes .recipe-tile img {
@@ -52,22 +53,24 @@ footer small { text-transform: uppercase; }
   width: 100%;
   height: 100%;
   opacity: 0.8;
+  vertical-align: bottom;
 }
 
 .recipes .recipe-tile span.overlay {
   transition: opacity 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
   overflow:hidden;
   position:absolute;
-  top: 50%;
+  bottom: 0;
   left: 0;
   width: 100%;
   text-align: center;
   line-height: 2em;
-  opacity: 0;
   font-size: 70%;
   font-style: bold;
-  color: #000;
+  opacity: 0;
+  color: #fff;
   overflow: hidden;
+  background: #df4747;
 }
 
 .recipes .recipe-tile:hover span.overlay {
@@ -75,7 +78,7 @@ footer small { text-transform: uppercase; }
 }
 
 .recipes .recipe-tile:hover img {
-  opacity: 0.4
+  opacity: 1;
 }
 
 /* --- recipe view --------------------------- */
@@ -84,7 +87,6 @@ section#single-wrap {
   max-width: 780px;
   margin: 20px auto;
   font-family: 'Lora', Georgia, serif;
-  background: #fff;
   z-index: 1;
 }
 
