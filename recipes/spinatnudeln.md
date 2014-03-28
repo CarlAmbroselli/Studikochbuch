@@ -4,6 +4,7 @@ layout: recipe
 title: Spinatnudeln mit Pilzen
 image: spinatnudeln.jpg
 duration: 25min
+price: 1,40€
 abstract: Pasta mit Spinat und Pilzen in Sahnesauce, mit Knoblauch und Curry gewürzt.
 ingredients:
   - 100g Nudeln (z.B. Spaghetti)
