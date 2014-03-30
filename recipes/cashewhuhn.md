@@ -11,6 +11,7 @@ ingredients:
   - Frühlingszwiebel
   - Reis
   - Gemüsebrühe
+price: "2€"
 ---
 
 Parallel zu den folgenden Schritten ist eine Portion Reis zu kochen,
