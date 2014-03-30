@@ -4,7 +4,7 @@ layout: recipe
 title: Pfannkuchen wahlweise mit Äpfeln und Fleischwurst
 image: pfannkuchen_fertig.jpg
 duration: 20min
-price: 
+price: "1€"
 abstract: Eierpfannkuchen mit Äpfeln und Fleichwurst.
 ingredients:
   - 3 Eier

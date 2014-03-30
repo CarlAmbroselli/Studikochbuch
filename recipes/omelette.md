@@ -4,7 +4,7 @@ layout: recipe
 title: Omelette
 image: omelette.jpg
 duration: 10min
-price: 
+price: "2€"
 abstract: Superlecker Ei mit Gemüse und allem was man noch so übrig hat!
 ingredients:
   - Eier

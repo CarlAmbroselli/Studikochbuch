@@ -4,7 +4,7 @@ layout: recipe
 title: Italienischer Nudelsalat
 image: italienischerSalat.jpg
 duration: 25min
-price: 
+price: "2€"
 abstract: Traditioneller italienischer Nudelsalat
 ingredients:
   - 500 Gramm Rucola
