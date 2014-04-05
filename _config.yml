@@ -1,7 +1,9 @@
 name: "Captain Cook"
+author: "HPI PEM Team Kochbuch"
 
 url: "http://flxw.de"
 baseurl: ""
+#baseurl: "/pem"
 
 permalink: :title.html
 pygments: false
