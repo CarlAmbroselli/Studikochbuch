@@ -13,6 +13,5 @@ ingredients:
 price: "1,20€"
 ---
 
-Die genannten Zutaten einfach in kleine Stücke schneiden,
-schichtweise einfüllen und würzen. Danach vermengen,
-ungefähr 1 Esslöffel Öl darüber gießen und etwas sitzen lassen.
+1. Die genannten Zutaten einfach in kleine Stücke schneiden, schichtweise einfüllen und würzen.
+2. Danach vermengen, ungefähr 1 Esslöffel Öl darüber gießen und etwas sitzen lassen.

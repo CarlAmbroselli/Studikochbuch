@@ -7,9 +7,9 @@ duration: 25min
 price: "2€"
 abstract: Traditioneller italienischer Nudelsalat
 ingredients:
-  - 500 Gramm Rucola
-  - 250 Gramm Penne
-  - 300 Gramm Parmaschinken (oder Landschinken)
+  - 500g Rucola
+  - 250g Penne
+  - 300g Parmaschinken (oder Landschinken)
   - 1 Stück Parmesan
   - 1 Pkg. Schafskäse oder Mozzarella
   - 1 Glas Kapern
@@ -26,13 +26,13 @@ ingredients:
 
 Salat
 
-1. Penne kochen und in eine große Schale geben
-2. Den Rucola waschen
-3. Den Schinken in kleine Stücke schneiden
-4. Den Parmesan reiben und den Käse bzw. Mozzarella kleinschneiden
-5. Die Pinienkerne mit etwas Öl auf der Pfanne kurz anbraten
-6. Die Tomaten in kleine Stücken zerschneiden
-7. Alles zusammen in die Schale geben
+1. Penne kochen und in eine große Schale geben.
+2. Den Rucola waschen.
+3. Den Schinken in kleine Stücke schneiden.
+4. Den Parmesan reiben und den Käse bzw. Mozzarella klein schneiden.
+5. Die Pinienkerne mit etwas Öl auf der Pfanne kurz anbraten.
+6. Die Tomaten in kleine Stücke schneiden.
+7. Alles zusammen in die Schale geben.
 
 Dressing
 

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 
-title: Mozyarella mit Pesto
+title: Mozzarella mit Pesto
 image: Basilikum-Mozzarella.jpg
 duration: 3min
 abstract: Selbstgemachtes Pesto mit kleinen Mozzarella Stückchen
@@ -13,7 +13,8 @@ ingredients:
   - Olivenöl
   - 1 Stück Mozzarella
   - Grüner Tabasco (bei Bedarf)
-price: "1,00€"
+price: "1€"
 ---
 
-Das Basilikum klein schneiden und zusammen mit dem Salz, Pfeffer, Olivenöl und den Pinienkernen in einer Mörser geben und glein stoßen. Den Mozzarella in Würfel schneiden und in den Mörser geben und alles gut vermengen. Bei Bedarf noch mit Tabasco abschmecken.
+1. Das Basilikum klein schneiden und zusammen mit dem Salz, Pfeffer, Olivenöl und den Pinienkernen in einer Mörser geben und glein stoßen.
+2. Den Mozzarella in Würfel schneiden und in den Mörser geben und alles gut vermengen. Bei Bedarf noch mit Tabasco abschmecken.

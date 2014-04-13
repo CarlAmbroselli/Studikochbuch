@@ -16,8 +16,6 @@ ingredients:
   - eventuell etwas Fleischwurst	
 ---
 
-Einleitende Anmerkung
-
 1. Eier aufschlagen und gut verrühren.
 2. Mehl, Vanillezucker, Salz und Milch dazugeben und wieder gut verrühren.
 3. Das ganze 10 Minuten ziehen lassen (damit das Mehl aufgeht).
@@ -26,5 +24,3 @@ Einleitende Anmerkung
 6. Nachdem der Teig gezogen hat, ungefähr ein Drittel des Teigs in die Pfanne schütten und gut dort verteilen.
 7. Wenn gewünscht Apfel und/oder Fleichwurststücke in den Teig drücken.
 8. Wenden und bei leicht bräunlicher Färbung herausnehmen.
-
-Abschließende Bemerkung

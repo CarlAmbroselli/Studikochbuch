@@ -9,13 +9,10 @@ ingredients:
   - 1 Ei
   - 1 Schluck Milch
   - 2 Toasts
+price:"?€"
 
 ---
 
-Einleitende Anmerkung
-
 1. Das Ei gut mit der Milch verrühren.
-2. Darin den Toast von beiden Seiten eintauchen.
+2. Den Toast von beiden Seiten in das Gemenge eintauchen.
 3. Den Toast in einer Pfanne braten bis die Eimischung leicht bräunlich ist.
-
-Abschließende Bemerkung
