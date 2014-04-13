@@ -4,7 +4,7 @@ title: Pasta mit Tomatensauce a la Alessandro
 
 image: pastaalessandro.jpg
 duration: 15-25min
-price: "?€"
+price: "1,40€"
 abstract: Pasta in Tomatensauce mit Mais, Pilzen und Brokkoli
 ingredients:
   - 100-125g Pasta (z.B. Bandnudeln)

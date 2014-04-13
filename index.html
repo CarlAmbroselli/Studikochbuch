@@ -6,7 +6,7 @@ layout: default
   {% for page in site.pages %}
   {% if page.layout == "recipe" %}
   <div class="recipe-tile">
-    <a href="{{site.baseurl }}{{ page.url }}">
+    <a href="{{ site.baseurl }}{{ page.url }}">
       <img src="{{ site.baseurl }}/assets/img/{{ page.image }}">
     </a>
     <span class="overlay">{{ page.abstract }}</span>
