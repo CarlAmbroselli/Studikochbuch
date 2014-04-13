@@ -1,7 +1,8 @@
 name: "Captain Cook"
 
 url: "http://flxw.de"
-baseurl: ""
+#baseurl: ""
+baseurl: "/projects/pem"
 
 permalink: :title.html
 pygments: false
