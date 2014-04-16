@@ -19,9 +19,9 @@ ingredients:
 price: "2,00€"
 ---
 
-0. Ofen auf 200° Ober-/Unterhitze vorheizen.
+0. Ofen auf 200°C Ober-/Unterhitze vorheizen.
 1. Tomate, Paprika und Pilze klein schneiden und in eine Schüssel geben.
 2. Hälfte vom Käse, Mais, Sauerrahm, etwas Salz und Pfeffer und ggf. Salami/Schinken dazugeben.
 3. Brötchen aufschneiden und mit Butter/Margarine und dann mit Mischung aus der Schüssel beschmieren.
 4. Restlichen Käse auf die Brötchen legen.
-5. Im Ofen braun backen, beim entnehmen mit etwas Oregano bestreuen.
+5. Im Ofen braun backen, beim Entnehmen mit etwas Oregano bestreuen.
