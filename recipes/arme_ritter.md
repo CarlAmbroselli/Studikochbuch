@@ -3,14 +3,13 @@ layout: recipe
 
 title: Arme Ritter
 image: arme_ritter_fertig.jpg
-duration: 10 min
+duration: 10min
 abstract: Gebratener Ei-Toast
 ingredients:
   - 1 Ei
   - 1 Schluck Milch
   - 2 Toasts
-price:"?€"
-
+price: "2€"
 ---
 
 1. Das Ei gut mit der Milch verrühren.

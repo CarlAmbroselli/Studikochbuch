@@ -4,17 +4,17 @@ layout: recipe
 title: Flammkuchen
 image: flammkuchen_fertig.jpg
 duration: 50min
-abstract: Flammkuchen belegt mit Schinkenwürfeln und Zwiebeln.
+abstract: Flammkuchen belegt mit Schinkenwürfeln und Zwiebeln
 ingredients:
   - 300g Mehl
   - 1 Teelöffel Salz
   - 1 Päckchen Backpulver
   - 250ml Wasser
-  - 100ml Creme fraiche
-  - 100ml Schlagsahne	
+  - 100ml Crème fraîche
+  - 100ml Schlagsahne
   - 2 Zwiebeln
   - 200g Schinkenwürfel
- price: "?€"
+price: "2€"
 ---
 
 1. Mehl, Salz und Backpulver mit dem Wasser vermischen und gut verrühren. Danach zu einer Kugel kneten und 10 Minuten gehen lassen.
