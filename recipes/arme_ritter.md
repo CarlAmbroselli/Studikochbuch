@@ -9,7 +9,7 @@ ingredients:
   - 1 Ei
   - 1 Schluck Milch
   - 2 Toasts
-price: "2€"
+price: "0,4€"
 ---
 
 1. Das Ei gut mit der Milch verrühren.

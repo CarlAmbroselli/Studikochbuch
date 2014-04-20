@@ -14,7 +14,7 @@ ingredients:
   - 100ml Schlagsahne
   - 2 Zwiebeln
   - 200g Schinkenwürfel
-price: "2€"
+price: "4€"
 ---
 
 1. Mehl, Salz und Backpulver mit dem Wasser vermischen und gut verrühren. Danach zu einer Kugel kneten und 10 Minuten gehen lassen.

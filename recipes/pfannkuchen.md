@@ -10,11 +10,13 @@ ingredients:
   - 3 Eier
   - 5 Esslöffel Mehl
   - 1 Päckchen Vanillezucker
-  - 1/2 Teelöffel Teelöffel
+  - 1/2 Teelöffel Salz
   - 150ml Milch
   - eventuell einen halben Apfel
   - eventuell etwas Fleischwurst	
 ---
+
+Einleitende Anmerkung
 
 1. Eier aufschlagen und gut verrühren.
 2. Mehl, Vanillezucker, Salz und Milch dazugeben und wieder gut verrühren.
@@ -24,3 +26,5 @@ ingredients:
 6. Nachdem der Teig gezogen hat, ungefähr ein Drittel des Teigs in die Pfanne schütten und gut dort verteilen.
 7. Wenn gewünscht Apfel und/oder Fleichwurststücke in den Teig drücken.
 8. Wenden und bei leicht bräunlicher Färbung herausnehmen.
+
+Abschließende Bemerkung
