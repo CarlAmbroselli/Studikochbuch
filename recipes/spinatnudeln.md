@@ -9,7 +9,7 @@ abstract: Pasta mit Spinat und Pilzen in Sahnesauce, mit Knoblauch und Curry gew
 ingredients:
   - 100g Nudeln (z.B. Spaghetti)
   - 150-200g Spinat (z.B. aus dem Tiefkühlfach)
-  - 100g Champignongs (z.B. aus der Dose)
+  - 100g Champignons (z.B. aus der Dose)
   - 1 Knoblauchzehe
   - 100ml (vegane) Sahne
   - Curry
